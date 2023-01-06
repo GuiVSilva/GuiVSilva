@@ -2,6 +2,7 @@
 
 
 - Atualmente estudo no Centro Universitário Facens 
+- Cursando o curso de Análise e Desenvolvimento de Sistemas
 - Estudando: Java, MySql, Python, HTML, CSS, Javascript
 
 <div align="left">
