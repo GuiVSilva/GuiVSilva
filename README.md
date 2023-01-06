@@ -7,7 +7,7 @@
 
 <div align="left">
   <a href="https://github.com/GuiVSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiVSilva&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiVSilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
