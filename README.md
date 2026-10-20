@@ -8,11 +8,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/guivrs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vieirasilvaguilherme70@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
-</div>
-
 <br/>
 
 ## 👋 Sobre mim
