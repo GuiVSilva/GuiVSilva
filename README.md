@@ -1,43 +1,74 @@
-# Olá, eu sou o Guilherme Vieira 👋
+<!-- Banner animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Guilherme%20Vieira&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=20" alt="Banner Guilherme Vieira" />
 
-💻 Desenvolvedor Fullstack | 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Facens (2024)
+<!-- Texto digitando -->
+<div align="center">
+  <a href="https://github.com/GuiVSilva">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Node.js+%2B+TypeScript+%2B+React;Construindo+APIs+REST+e+microsservi%C3%A7os;Aprofundando+em+Java+e+Spring+Boot;P%C3%B3s+em+Engenharia+de+Software+com+Java+%2B+IA" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guivrs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vieirasilvaguilherme70@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</div>
+
+<br/>
+
+## 👋 Sobre mim
+
+Sou desenvolvedor Full Stack com 2 anos de experiência construindo e evoluindo sistemas para grandes marcas. Trabalho principalmente com **Node.js, TypeScript, React e PostgreSQL**, e estou aprofundando meus conhecimentos no ecossistema **Java / Spring Boot**.
+
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Facens (2024)
+- 📚 Cursando **Pós-graduação em Engenharia de Software com Java + IA**
+- 🔧 Experiência em **modernização de sistemas legados** (PHP e Delphi 7 para React e TypeScript)
+- 🌱 Estudando agora: **Spring Boot, Quarkus, DDD, System Design e aplicações de IA com LangChain4j**
+- 📍 Sorocaba, SP · Aberto a oportunidades como **Back-End ou Full Stack**
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Back-End**
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,python,prisma,kafka" alt="Back-End" />
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Front-End**
 
-### DevOps & Outros
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,electron" alt="Front-End" />
+
+**Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Banco de Dados" />
+
+**DevOps e Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws" alt="DevOps" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/GuiVSilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiVSilva&show_icons=true&theme=radical&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVSilva&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuiVSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVSilva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
-## 🌐 Conecte-se comigo
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GuiVSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guivrs/)
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuiVSilva&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
+</div>
 
-💡 Sempre buscando novos desafios e oportunidades para crescer como desenvolvedor!
+<br/>
+
+## 🤝 Vamos conversar?
+
+Sempre em busca de novos desafios e de times com quem aprender e evoluir. Fique à vontade para entrar em contato!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guivrs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vieirasilvaguilherme70@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Rodapé" />
