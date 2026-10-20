@@ -56,10 +56,6 @@ Sou desenvolvedor Full Stack com 2 anos de experiência construindo e evoluindo 
   <img src="https://streak-stats.demolab.com?user=GuiVSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuiVSilva&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
-</div>
-
 <br/>
 
 ## 🤝 Vamos conversar?
